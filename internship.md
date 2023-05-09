@@ -17,7 +17,7 @@
  >uplode img
  
  1.your picture
- ![project-1](
+ ![alt project-1](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/IMG_20230208_202237_285.jpg)
  
  
 ### day-2
