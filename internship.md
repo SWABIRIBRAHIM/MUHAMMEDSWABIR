@@ -44,5 +44,28 @@
 ![alt project-3](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-11%20at%2010-22-21%20Circuit%20design%20Amazing%20Elzing-Blorr%20Tinkercad.png)
 >project-4
 
+**LED BLINKING CIRCUIT**
 ![alt project-4](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-11%20at%2011-20-50%20Circuit%20design%20Fantabulous%20Gaaris-Jaban%20Tinkercad.png)
   [tinker-cad](https://www.tinkercad.com/things/fFQTSRrff8g-fantabulous-gaaris-jaban/editel)
+   ## program code :
+   
+   // C++ code
+//
+void setup()
+{
+  pinMode(8, OUTPUT);
+}
+
+void loop()
+
+{
+
+  digitalWrite(8, HIGH);
+  
+  delay(1000); // Wait for 1000 millisecond(s)
+  
+  digitalWrite(8, LOW);
+  
+  delay(1000); // Wait for 1000 millisecond(s)
+  
+}
