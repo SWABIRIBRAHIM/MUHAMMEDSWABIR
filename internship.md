@@ -36,4 +36,4 @@
   [tinker-cad](https://www.tinkercad.com/things/5d9RetLUXcA-grand-blorr-inari/editel)
 >project-3
 
-![alt project-3]()
+![alt project-3](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-11%20at%2010-22-21%20Circuit%20design%20Amazing%20Elzing-Blorr%20Tinkercad.png)
