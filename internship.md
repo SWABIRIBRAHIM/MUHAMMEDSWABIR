@@ -72,4 +72,37 @@ void loop()
 >project-5
 
 **DENCING LED PROGRAM**
-![alt project-5]()
+![alt project-5](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-11%20at%2013-41-13%20Circuit%20design%20Fantabulous%20Gaaris-Jaban%20Tinkercad.png)
+  [tinker-cad](https://www.tinkercad.com/things/fFQTSRrff8g-fantabulous-gaaris-jaban/editel) 
+   ## program code :
+   
+   // C++ code
+//
+void setup()
+
+{
+
+  pinMode(8, OUTPUT);
+
+  pinMode(13, OUTPUT);
+  
+}
+
+void loop()
+
+{
+  digitalWrite(8, HIGH);
+  
+  delay(1000); // Wait for 1000 millisecond(s)
+  
+  digitalWrite(8, LOW);
+  
+  digitalWrite(13, HIGH);
+  
+  delay(1000); // Wait for 1000 millisecond(s)
+  
+  digitalWrite(13, LOW);
+  
+  delay(1000);
+  
+}
