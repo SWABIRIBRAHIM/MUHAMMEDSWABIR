@@ -109,5 +109,58 @@ void loop()
 >project-6
 
 **LED CHEISER PROGRAM**
-![alt project-6]()
+![alt project-6](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-11%20at%2015-44-56%20Circuit%20design%20Fabulous%20Krunk-Migelo%20Tinkercad.png)
  [tinker-cad](https://www.tinkercad.com/things/ac5tYu984PZ-fabulous-krunk-migelo/editel)
+  ## program code :
+  
+  // C++ code
+//
+void setup()
+{
+
+  pinMode(13, OUTPUT);
+  
+  pinMode(8, OUTPUT);
+  
+  pinMode(7, OUTPUT);
+  
+  pinMode(2, OUTPUT);
+  
+}
+
+void loop()
+
+{
+
+  digitalWrite(13, HIGH);
+  
+  delay(180); // Wait for 1000 millisecond(s)
+  
+  digitalWrite(13, LOW);
+  
+   // Wait for 1000 millisecond(s)
+   
+  digitalWrite(8, HIGH);
+  
+  delay(180);// Wait for 1000 millisecond(s)
+  
+  digitalWrite(8, LOW);
+  
+  // Wait for 1000 millisecond(s)
+  
+  digitalWrite(7, HIGH);
+  
+  delay(180); // Wait for 1000 millisecond(s)
+  
+  digitalWrite(7, LOW);
+  
+   // Wait for 1000 millisecond(s)
+   
+  digitalWrite(2, HIGH);
+  
+  delay(180); // Wait for 1000 millisecond(s)
+  
+  digitalWrite(2, LOW);
+  
+   // Wait for 1000 millisecond(s)
+}
