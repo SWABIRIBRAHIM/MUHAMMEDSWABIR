@@ -164,4 +164,5 @@ void loop()
   digitalWrite(2, LOW);
   
    // Wait for 1000 millisecond(s)
+   
 }
