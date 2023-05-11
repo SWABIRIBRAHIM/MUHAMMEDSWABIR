@@ -21,7 +21,7 @@
  
  
 ### day-2
->tinkercad
+>tinkercad:
 
 1.open tinkercad software
 2.open new simulation folder
@@ -32,8 +32,16 @@
 >project-2
 
 ![alt project-2](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-09%20at%2012-56-43%20Circuit%20design%20Grand%20Blorr-Inari%20Tinkercad.png)
-
   [tinker-cad](https://www.tinkercad.com/things/5d9RetLUXcA-grand-blorr-inari/editel)
+### day-3
+>tinkercad:
+
+1.open tinkercad software
+2.open new simulation folder
+3.creat an a AND gate circuit for op-amp AND gate ic 7408
 >project-3
 
 ![alt project-3](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-11%20at%2010-22-21%20Circuit%20design%20Amazing%20Elzing-Blorr%20Tinkercad.png)
+>project-4
+
+![alt project-4](
