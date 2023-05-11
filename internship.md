@@ -29,6 +29,7 @@
 >project-1
 
 ![alt project-1](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-09%20at%2012-25-34%20Circuit%20design%20Grand%20Blorr-Inari%20Tinkercad.png)
+   [tinker-cad](https://www.tinkercad.com/things/5d9RetLUXcA-grand-blorr-inari/editel)
 >project-2
 
 ![alt project-2](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-09%20at%2012-56-43%20Circuit%20design%20Grand%20Blorr-Inari%20Tinkercad.png)
