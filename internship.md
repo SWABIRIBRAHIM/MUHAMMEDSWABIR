@@ -175,7 +175,7 @@ void loop()
 **(0-9)7 SEGMENT COUNTER PROGRAM**
 
 ![alt project-7]()
-[tinker-cad]()
+[tinker-cad](https://www.tinkercad.com/things/39gr94bs2TJ-epic-bigery-sango/editel)
  ## program code :
  
  
