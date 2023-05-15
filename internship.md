@@ -49,7 +49,7 @@
   [tinker-cad](https://www.tinkercad.com/things/fFQTSRrff8g-fantabulous-gaaris-jaban/editel)
    ## program code :
    
-   // C++ code
+```   // C++ code
 //
 void setup()
 {
@@ -69,6 +69,7 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
   
 }
+```
 >project-5
 
 **DENCING LED PROGRAM**
@@ -76,7 +77,7 @@ void loop()
   [tinker-cad](https://www.tinkercad.com/things/fFQTSRrff8g-fantabulous-gaaris-jaban/editel) 
    ## program code :
    
-   // C++ code
+```   // C++ code
 //
 void setup()
 
@@ -106,6 +107,7 @@ void loop()
   delay(1000);
   
 }
+```
 >project-6
 
 **LED CHEISER PROGRAM**
@@ -114,7 +116,8 @@ void loop()
  [tinker-cad](https://www.tinkercad.com/things/ac5tYu984PZ-fabulous-krunk-migelo/editel)
   ## program code :
   
-  // C++ code
+```
+// C++ code
 //
 void setup()
 {
@@ -165,4 +168,18 @@ void loop()
   
    // Wait for 1000 millisecond(s)
    
-}
+}`
+```
+>project-7
+
+**(0-9)7 SEGMENT COUNTER PROGRAM**
+
+![alt project-7]()
+[tinker-cad]()
+ ## program code :
+ 
+ 
+ 
+ ### DAY-4
+
+>AI
