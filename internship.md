@@ -174,9 +174,112 @@ void loop()
 
 **(0-9)7 SEGMENT COUNTER PROGRAM**
 
-![alt project-7]()
+![alt project-7](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-15%20at%2015-42-43%20Circuit%20design%20Epic%20Bigery-Sango%20Tinkercad.png)
 [tinker-cad](https://www.tinkercad.com/things/39gr94bs2TJ-epic-bigery-sango/editel)
  ## program code :
+ 
+```// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(12,OUTPUT);
+  pinMode(11,OUTPUT);
+  pinMode(10,OUTPUT);
+  pinMode(9,OUTPUT);
+  pinMode(8,OUTPUT);
+  pinMode(7,OUTPUT); 
+  pinMode(6,OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(10,HIGH);
+  delay(500); // Wait for 1000 millisecond(s
+  digitalWrite(13,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(11,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(12,HIGH);
+  delay(500);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(7,HIGH);
+  digitalWrite(11,HIGH);
+  delay(500);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(11,HIGH);
+  delay(500);
+  digitalWrite(10,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(13,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(12,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  delay(500);
+  digitalWrite(12,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(13,HIGH);
+  delay(500);
+  digitalWrite(12,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(13,HIGH);
+  delay(500);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(11,HIGH);
+  delay(500);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(6,LOW);
+  delay(500); 
+  digitalWrite(6,LOW);
+  digitalWrite(9,HIGH);
+  delay(500); 
+}
+```
+
  
  
  
