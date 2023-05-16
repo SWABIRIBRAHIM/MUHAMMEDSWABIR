@@ -310,8 +310,22 @@ void loop()
 
 ** Analog reader potentiometer**
 
-![alt project-8] ()
-[tinker-cad]()
+![alt project-8](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-15%20at%2014-30-32%20Circuit%20design%20Ingenious%20Curcan-Fyyran%20Tinkercad.png)
+[tinker-cad](https://www.tinkercad.com/things/kAk4GmEpMZt-ingenious-curcan-fyyran/editel)
+
  ## program code :
  
  ```
+ const int potpin=A0;
+void setup() 
+{
+  Serial.begin(9600);
+}
+
+void loop() 
+{
+  int potValue = analogRead(potpin); 
+  Serial.println(potValue);
+  delay(100);
+}
+```
