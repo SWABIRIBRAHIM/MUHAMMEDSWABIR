@@ -306,5 +306,12 @@ void loop()
 1. Introducing Drones
 2. explained about drones parts
 3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management)
+>project-8
 
-> Analog reader potentiometer
+** Analog reader potentiometer**
+
+![alt project-8] ()
+[tinker-cad]()
+ ## program code :
+ 
+ ```
