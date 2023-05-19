@@ -355,3 +355,64 @@ void loop()
 
 ![alt project-](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Capture.JPG)
 [tinker-cad](https://www.tinkercad.com/things/7KrXrwLNVTQ-super-fyyran/editel)
+
+ ## program code :
+ 
+ ```const int buttonPin0 = 2;     // the number of the pushbutton pin
+const int ledPin0 =  13;
+const int buttonPin1 = 4;     // the number of the pushbutton pin
+const int ledPin1 =  12;
+const int buttonPin2 = 7;     // the number of the pushbutton pin
+const int ledPin2 =  8; // the number of the LED pin
+
+// variables will change:
+int buttonState0 = 0;         // variable for reading the pushbutton status
+int buttonState1 = 0; 
+int buttonState2 = 0; 
+
+void setup()
+{
+  // initialize the LED pin as an output:
+  pinMode(ledPin0, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin0, INPUT);
+  // initialize the LED pin as an output:
+  pinMode(ledPin1, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin1, INPUT);
+  // initialize the LED pin as an output:
+  pinMode(ledPin2, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin2, INPUT);
+}
+
+void loop()
+{
+  // read the state of the pushbutton value:
+  buttonState0 = digitalRead(buttonPin0);
+   buttonState1 = digitalRead(buttonPin1);
+   buttonState2 = digitalRead(buttonPin2);
+
+  // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+  if (buttonState0 == HIGH)
+  {
+    // turn LED on:
+    digitalWrite(ledPin0, HIGH);
+  }
+  else if (buttonState1 == HIGH)
+  { 
+   digitalWrite(ledPin1, HIGH); 
+  }
+  else if (buttonState2 == HIGH)
+  { 
+   digitalWrite(ledPin2, HIGH); 
+  } 
+  else
+  {
+    // turn LED off:
+    digitalWrite(ledPin0, LOW);
+     digitalWrite(ledPin1, LOW);
+     digitalWrite(ledPin2, LOW);
+  }
+}
+```
