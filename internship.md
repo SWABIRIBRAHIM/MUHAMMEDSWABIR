@@ -534,3 +534,10 @@ void loop()
   }
 }
 ```
+
+>PROJECT-11
+
+**LCD interfacing with arduino**
+
+![alt project-11]()
+[tinker-cad](https://www.tinkercad.com/things/hyjbVJBnyE4-cool-snaget-densor/editel)
