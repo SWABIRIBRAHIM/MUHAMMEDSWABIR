@@ -350,4 +350,8 @@ void loop()
 ### DAY-9
 
 >PROJECT-
-![alt project-]()
+
+**MANUAL TRAFFIC LIGHT**
+
+![alt project-](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Capture.JPG)
+[tinker-cad](https://www.tinkercad.com/things/7KrXrwLNVTQ-super-fyyran/editel)
