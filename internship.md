@@ -337,9 +337,11 @@ void loop()
 2. creating  models by the tinkercad 3D modeling
 3. start with basic shapes
 4. also cover the previous design's
-5. created a CAR
-6. then introduced the 3D printer 
-7. also printed a design (duration 19 min)
+5. created a 3D CAR
+![IMAGE]()
+[tinker-cad](https://www.tinkercad.com/things/3qsw81D0mDj-dazzling-snicket/edit)
+7. then introduced the 3D printer 
+8. also printed a design (duration 19 min)
 
 
 
