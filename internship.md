@@ -349,7 +349,7 @@ void loop()
 
 > Introduced the yaskawa arm robot
 1. The introduction of yaskawa AR1440 
-![image]()
+![image](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/MOTOMAN-AR1440_max.png)
 
 > Then introduced about the EV (electric vehicle)
 
