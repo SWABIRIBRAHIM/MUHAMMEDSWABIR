@@ -294,7 +294,7 @@ void loop()
 **AI & ML** 
 > STM 32 NUCLEO DEVELOPMENT BOARD
  
-![IMAGE]()
+![IMAGE](https://www.google.com/search?q=STM+32+NUCLEO+DEVELOPMENT+BOARD&client=ubuntu&hs=WVG&channel=fs&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-h7CmxID_AhUexTgGHdV_A3QQ_AUoAXoECAEQAw&biw=1299&bih=656&dpr=1#imgrc=Vy5_kr5Dsm0lkM)
 1. the board is programmeble
 2. Can program th board by nucleo software
 3. it can build a sound detecting device by using microphone sensor 
