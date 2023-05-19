@@ -355,13 +355,123 @@ void loop()
 
 ### DAY-8
 
+> PROJECT-9 
+
+1. Programming the arduino for the 7 segment display with pot 
+2. adjusting the speed of the display by varing the pot [thinker the circuit](https://www.tinkercad.com/things/7hNg1XcCvKV-copy-of-fantastic-gaaris-jaiks/editel)  ![PROJECT-9](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-18%2010-51-29.png)
+
+## PROGRAM CODE:
+
+```
+// C++ code
+//
+const int potpin=A0;
+
+
+void setup()
+  
+{
+  Serial.begin(9600);
+  pinMode(13, OUTPUT);
+  pinMode(12,OUTPUT);
+  pinMode(11,OUTPUT);
+  pinMode(10,OUTPUT);
+  pinMode(9,OUTPUT);
+  pinMode(8,OUTPUT);
+  pinMode(7,OUTPUT);
+}
+
+void loop()
+{
+  int potValue =analogRead(potpin);
+  Serial.println(potValue);
+  digitalWrite(13, LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,HIGH);
+  delay(potValue); // Wait for 1000 millisecond(s
+  digitalWrite(11,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(13,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(7,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(8,HIGH);
+  digitalWrite(11,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  delay(potValue);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(13,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(10,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(12,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(12,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(7,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  delay(potValue);
+  digitalWrite(10,HIGH);
+  digitalWrite(9,HIGH);
+  delay(potValue);
+  
+  delay(potValue); // Wait for 1000 millisecond(s)
+}
+```
+
 ### DAY-9
 
->PROJECT-
+>PROJECT-10
 
 **MANUAL TRAFFIC LIGHT**
 
-![alt project-](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Capture.JPG)
+![alt project-10](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Capture.JPG)
 [tinker-cad](https://www.tinkercad.com/things/7KrXrwLNVTQ-super-fyyran/editel)
 
  ## program code :
