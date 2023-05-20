@@ -573,3 +573,11 @@ void loop() {
   lcd.print("@swabir_ibrahim");
 }
 ```
+### DAY-10
+
+>ASSIGNMENT-1:
+
+***VOLT METER USING ARDUINO***
+
+![alt assignment-1]()
+[tinker-cad]()
