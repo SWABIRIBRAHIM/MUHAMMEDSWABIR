@@ -638,3 +638,10 @@ void loop()
     delay(300);
 }
 ```
+
+>ASSIGNMENT-2:
+
+1.creat a key chain
+
+![alt assignment-2](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-20%20at%2013-26-04%203D%20design%20Sizzling%20Duup%20Tinkercad.png)
+[tinker-cad](https://www.tinkercad.com/things/0FLMgQeMdC5-sizzling-duup/edit)
