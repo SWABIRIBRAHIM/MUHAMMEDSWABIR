@@ -61,4 +61,7 @@ void loop()
     delay(300);
 }
 ```
+>ASSIGNMENT-2:
 
+![alt assignment-2]()
+[tinker-cad]()
