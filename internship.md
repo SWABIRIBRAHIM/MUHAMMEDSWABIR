@@ -37,8 +37,11 @@
 >tinkercad:
 
 1.open tinkercad software
+
 2.open new simulation folder
+
 3.creat an a AND gate circuit for op-amp using AND gate ic 7408
+
 >project-3
 
 ![alt project-3](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-11%20at%2010-22-21%20Circuit%20design%20Amazing%20Elzing-Blorr%20Tinkercad.png)
