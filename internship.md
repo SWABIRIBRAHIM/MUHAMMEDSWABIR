@@ -24,8 +24,11 @@
 >tinkercad:
 
 1.open tinkercad software
+
 2.open new simulation folder
+
 3.creat an a led  simulation circuit with switch and without switch
+
 >project-1
 
 ![alt project-1](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/Screenshot%202023-05-09%20at%2012-25-34%20Circuit%20design%20Grand%20Blorr-Inari%20Tinkercad.png)
